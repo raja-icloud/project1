@@ -1,25 +1,34 @@
 
-// class is a prototyope of an object
-// class is a blueprint  objects
-
+// identifier is a name given to a variable, method, class, or any other user-defined item.
+        // Rule of identifier
+        // 1. It should start with a letter, $ or _
+        // 2. It should not start with a number
+        // 3. It should not contain special characters
+        // 4. It should not be a reserved keyword
 public class Home {
-    
 
     public static void main(String[] args) {
-       System.out.println(args[0]);
-       System.out.println(args[1]);
-       calculate();
-    }
+        // Literals is a fixed value
+        int a = 10;
+        long b = 10L;
+        boolean c = true;
 
-    public static void calculate() {
-        int a = 5;
-        int b = 10;
-        int sum = add(a, b);
+
+        int numberOne = 10;
+        int numberTwo = 20;
+        int sum = numberOne + numberTwo; // arithmetic operator
         System.out.println("Sum: " + sum);
-    }
+        
+        // Arithmetic Operators
+        // +, - , * , /, %
+        // Logical Operators
+        // &&, ||, !
+        // Relational Operators
+        // ==, !=, >, <, >=, <=
+    
+        String name = "John Doe";
 
-    public static int add(int number1, int number2) {
-        return number1 + number2;
+        
     }
 
 }
