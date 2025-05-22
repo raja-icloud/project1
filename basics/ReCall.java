@@ -1,3 +1,4 @@
+package basics;
 // Data type (byte, short, int, long, float, double, char, boolean)
 // identifier (variable name, method name, class name, interface name, enum name)
 // literal (value) - 1, 2, 3, 4, 5, 6.0, 'A', true

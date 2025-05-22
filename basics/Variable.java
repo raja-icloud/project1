@@ -1,3 +1,4 @@
+package basics;
 // @@@@@@ UpperCamelCase (for class names)
 // UserName 
 // LastName

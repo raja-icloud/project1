@@ -1,3 +1,4 @@
+package basics;
 
 // identifier is a name given to a variable, method, class, or any other user-defined item.
         // Rule of identifier

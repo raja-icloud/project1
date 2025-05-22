@@ -1,3 +1,4 @@
+package basics;
 public class StringConcept {
     public static void main(String[] args) {
         String name = "chennai";

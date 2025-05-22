@@ -1,3 +1,4 @@
+package basics;
 class Vehicle {
     String brand; // Instance level variable or class level variable 
     static String brandOfTire; // instance level variable but common memory for all the instances

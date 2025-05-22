@@ -1,3 +1,4 @@
+package basics;
 
 // className, methodName, varibleName (identifiers)
 // 1. it should not start with numbers

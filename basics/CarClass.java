@@ -1,3 +1,4 @@
+package basics;
 class HomdaVehilcle {
     public static String brand = "Honda";
     public String type; 

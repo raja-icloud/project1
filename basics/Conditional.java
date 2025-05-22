@@ -1,3 +1,4 @@
+package basics;
 public class Conditional {
     public static void main(String[] arguments) {
         String name = arguments[0];

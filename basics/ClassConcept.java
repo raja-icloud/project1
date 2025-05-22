@@ -1,3 +1,4 @@
+package basics;
 class Student {
     public String name; // instance level variable
     public int age;

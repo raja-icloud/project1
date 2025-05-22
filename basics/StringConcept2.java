@@ -1,3 +1,4 @@
+package basics;
 public class StringConcept2 {
     public static void main(String[] args) {
         StringBuilder msg2 = new StringBuilder("World"); // its not thread safe
